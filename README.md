@@ -80,11 +80,11 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Boniface_Data_Analyst.pdf">Download my CV</a></td>
+      <td><a href="Shamil Hassan (1).pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/boniboban">Let’s connect on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/shamilhassan">Let’s connect on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
