@@ -41,7 +41,7 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
 ### Email Marketing Campaign – [Power BI]  
 🌍 Created an Email Marketing campaign Power BI dashboard by using DAX Measures and Slicers. 
 🔍 My dashboard explains about the significant impact of Engagement Metrics, Conversion insights and many more.   
-![image](project dashboard.png")
+![image](project dashboard.png)
 ---
 
 ---
