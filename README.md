@@ -18,10 +18,10 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
 ## 💼 Work Experience  
 
 ### 🔹 Data Analyst Intern — *Rows & Columns, Kozhikode*  
--Built interactive dashboards in Power BI using DAX measures and slicers.
--Cleaned and transformed raw data using Power Query for reporting readiness.
--Explored data trends to uncover insights and support business decisions.
--Validated data accuracy to ensure reliable analysis and reporting on project. 
+- Built interactive dashboards in Power BI using DAX measures and slicers.
+- Cleaned and transformed raw data using Power Query for reporting readiness.
+- Explored data trends to uncover insights and support business decisions.
+- Validated data accuracy to ensure reliable analysis and reporting on project. 
 
 ### 🔹 Customer Service Advisor — *EE mobile, Newcastle*  
 - Resolved customer issues across technical, billing, and general service inquiries with efficiency and professionalism. 
